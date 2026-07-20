@@ -1,0 +1,11 @@
+{
+  "Logging": {
+    "LogLevel": "warning"
+  },
+  "MipSettings": {
+    "SystemEmail": "",
+    "TenantId": "",
+    "ClientId": "",
+    "ClientSecret": ""
+  }
+}
